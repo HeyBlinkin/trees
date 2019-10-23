@@ -1,2 +1,4 @@
 # trees
-so much wood!
+so many trees.
+
+Also, watch out for Dutch Elm Disease.
